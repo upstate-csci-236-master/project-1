@@ -25,7 +25,7 @@ POS - print the average of only the positive numbers
 NEG - print the average of only the negative numbers
 ODD - print the average of only the odd numbers
 EVEN - print the average of only the even numbers 
-WHOLE - print the average of only the whole numbers
+WHOLE - print the average of only the whole numbers, I am define whole as ANY INTEGER, negative, positive or zero; sorry for the variation from normal math terms
 REAL - print the average of only the decimal numbers (floating point)
 PRIME - print the average of only the prime numbers
 STOP
