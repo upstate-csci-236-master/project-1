@@ -6,12 +6,12 @@ Given a list of numbers, positive, negative, while numbers and decimal numbers, 
 
 ```
 Average of all
-Average of positive
-Average of negative
-Average of odd numbers
-Average of even numbers
-Average of whole numbers
-Average of real numbers
+Average of positive (any number, integer or decimal; zero is considered positive)
+Average of negative (any number, integer or decimal)
+Average of odd numbers (any integer positive or negative that is odd)
+Average of even numbers (any integer positive or negative that is even)
+Average of whole numbers (any number that is postive, negative or zero and does not have a decimal point)
+Average of real numbers (any number, positive, negative or zero with a necimal point)
 Average of prime numbers
 ```
 
@@ -40,7 +40,7 @@ For grade of C your program needs to handle integers plus these commands: ALL, P
 
 For grade of B your program needs to handle all of C plus real numbers and these commands: ODD, EVEN, WHOLE, REAL. In addition it must ignore invalid commands. 
 
-For grade of A your program needs to handle all of C & B plus invalid numbers which are to be ignored: PRIME, STOP, In addition it must handle commands regardless of their casing (All, ALL, all, etc)
+For grade of A your program needs to handle all of C & B plus invalid numbers which are to be ignored and the PRIME command. In addition it must handle commands regardless of their casing (All, ALL, all, etc)
 
 
 Submit your final source to CodePost using the file name averages.py.
