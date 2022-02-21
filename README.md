@@ -35,6 +35,7 @@ For each command that you read, output a single line with the corresponding  av
 
 End the program when you read STOP.
 
+NOTE: this problem can be easily solved using scalar (single) variables and does NOT require the use of anything we have not covered yet in class, such as lists or file i/o. If you have questions contact your instructor. If a lab tutor tells you to use one of these constructs, please show them this statement. 
 
 For grade of C your program needs to handle integers plus these commands: ALL, POS, NEG, STOP
 
